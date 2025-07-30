@@ -1,32 +1,31 @@
-# Installazione Sito di Scacchi
+# Chess Site Installation Guide
 
-Questa guida ti accompagna passo passo nell'installazione del sito di scacchi, dalla preparazione dell'ambiente fino al caricamento del database SQL.
-
----
-
-## 1. Prerequisiti
-
-Per far funzionare il sito sono necessari:
-
-- **Server web** con supporto PHP (versione 7.2 o superiore)
-- **Database MySQL o MariaDB**
-- **phpMyAdmin** o altro strumento per gestire il database
-- Un interprete PHP configurato correttamente
+This guide will walk you step-by-step through installing the chess site, from setting up the environment to loading the SQL database.
 
 ---
 
-## 2. Installazione di PHP, MySQL e phpMyAdmin
+## 1. Prerequisites
 
-### Su Windows
+To run the site, you need:
 
-Il modo più semplice per installare tutto l'occorrente è utilizzare un pacchetto completo come **XAMPP**, che include Apache, PHP, MySQL e phpMyAdmin:
+- A **web server** with PHP support (version 7.2 or higher)
+- A **MySQL or MariaDB database**
+- **phpMyAdmin** or another tool to manage the database
+- A properly configured PHP interpreter
 
-- Scarica XAMPP da [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)
-- Esegui il programma di installazione e segui le istruzioni
-- Avvia Apache e MySQL dal pannello di controllo di XAMPP
-- Accedi a phpMyAdmin aprendo il browser all’indirizzo: `http://localhost/phpmyadmin`
+---
 
-### Su Linux (Ubuntu/Debian)
+## 2. Installing PHP, MySQL, and phpMyAdmin
 
-Su Linux puoi installare lo stack LAMP e phpMyAdmin tramite terminale:
+### On Windows
 
+The easiest way to install everything is to use a package like **XAMPP**, which includes Apache, PHP, MySQL, and phpMyAdmin:
+
+- Download XAMPP from [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)
+- Run the installer and follow the instructions
+- Start Apache and MySQL via the XAMPP Control Panel
+- Access phpMyAdmin by opening your browser at: `http://localhost/phpmyadmin`
+
+### On Linux (Ubuntu/Debian)
+
+You can install the LAMP stack and phpMyAdmin using the terminal:
