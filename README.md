@@ -1,6 +1,6 @@
 # ♟️ Chess Website Installation Guide
 
-Welcome to the Chess Website! This guide will walk you through the steps needed to install and run the project locally.
+Welcome to my Chess Website! This guide will walk you through the steps needed to install and run the project locally.
 
 ---
 
@@ -22,7 +22,7 @@ Before getting started, ensure you have the following installed:
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/chess-website.git
+git clone https://github.com/enryi/Chess-Site.git
 ```
 
 Or download and extract the ZIP file manually.
@@ -112,6 +112,6 @@ You should now see the homepage of the chess site.
 
 ## ❤️ Credits
 
-Created by enryi. Feel free to fork, contribute, or report issues.
+Created by [enryi]. Feel free to fork, contribute, or report issues.
 
 ---
